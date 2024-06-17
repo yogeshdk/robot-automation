@@ -1,0 +1,1 @@
+Sample robot-framework scripts for UI automation
